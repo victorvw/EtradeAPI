@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DayTrader/HeadersAdapter.swift"
+            timestampString = "521669999.720819"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "adapt(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DayTrader/HeadersAdapter.swift"
+            timestampString = "521669999.721271"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "generateOauthSignature(urlRequest:headers:oauthTokenSecret:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DayTrader.HeadersAdapter.(generateOauthSignature in _12E8A2636F9CA20B75717CC140567991)(urlRequest: Foundation.URLRequest, headers: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, oauthTokenSecret: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.String"
+                  moduleName = "DayTrader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthew.mohrman/Documents/DayTrader/DayTrader/HeadersAdapter.swift"
+                  timestampString = "521669211.631026"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1914">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DayTrader.HeadersAdapter.(generateOauthSignature in _12E8A2636F9CA20B75717CC140567991)(urlRequest: Foundation.URLRequest, headers: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, oauthTokenSecret: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.String"
+                  moduleName = "DayTrader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matthew.mohrman/Documents/DayTrader/DayTrader/HeadersAdapter.swift"
+                  timestampString = "521669211.633376"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "5072">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DayTrader/HeadersAdapter.swift"
+            timestampString = "521669999.721599"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "generateAuthorizationValue(urlRequest:headers:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DayTrader/OauthAuthorizationAdapter.swift"
+            timestampString = "534540926.580698"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "adapt(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

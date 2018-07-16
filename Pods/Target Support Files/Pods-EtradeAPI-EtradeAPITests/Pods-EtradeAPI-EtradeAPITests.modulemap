@@ -1,0 +1,6 @@
+framework module Pods_EtradeAPI_EtradeAPITests {
+  umbrella header "Pods-EtradeAPI-EtradeAPITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
